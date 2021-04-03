@@ -6,9 +6,7 @@ The ClassicModels database is a management system that uses database technology 
 
 To know more about the database, do check out [Richard T. Watson's website](https://www.richardtwatson.com/dm6e/Reader/ClassicModels.html)
 
-This database contains 8 tables.
-
-(customers, employees, offices, orders, orderdetails, payments, products, productLine)
+This database contains 8 tables (customers, employees, offices, orders, orderdetails, payments, products, productLine)
 
 I have added additional features to this database, that ensure 
 - Automatic updation of Product Inventory 
